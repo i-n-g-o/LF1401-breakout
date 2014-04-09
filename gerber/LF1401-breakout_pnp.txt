@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=LF1401-breakout
+*Date=11:22:29
+*CreatedBy=Fritzing 0.8.3b.07.27.048f
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;12.27;-8.27;0;Bottom;Via1
+2;;;9.72999;-8.27;0;Bottom;Via3
+3;;;11.049;-6.9642;0;Bottom;Copper Fill1
+4;;;10.9669;-6.94362;0;Bottom;TXT3
+5;;;12.27;-5.73;0;Bottom;Via1
+6;;;3.0226;-3.3828;0;Bottom;Copper Fill3
+7;;;11.049;-6.9642;0;Bottom;Copper Fill2
+8;;;14.81;-8.27;0;Bottom;Via2
+9;;THT;11.13;-1.8914;-90;Bottom;CON
+10;;;7.18999;-8.27;0;Bottom;Via3
+11;;;10.9686;-10.1739;0;Bottom;TXT2
+12;;;14.81;-5.73;0;Bottom;Via2
+13;;;3;-6.99999;0;Bottom;Hole1
+14;;;7.18999;-5.73;0;Bottom;Via3
+15;;;19;-6.99999;0;Bottom;Hole2
+16;;;11.1299;-3.87832;0;Bottom;TXT1
+17;;;9.72999;-5.73;0;Bottom;Via3
